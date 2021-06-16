@@ -1,0 +1,42 @@
+.card {
+  width: 40%;
+  margin: auto;
+  display: block;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#controls div {
+  width: 30%;
+}
+
+#controls button {
+  width: 30%;
+  border: none;
+  height: 50px;
+}
+
+#timer {
+  display: block;
+}
+
+#break-length {
+  font-size: 2rem;
+}
+
+#session-length {
+  font-size: 2rem;
+}
+
+#time-left {
+  font-size: 2rem;
+}
