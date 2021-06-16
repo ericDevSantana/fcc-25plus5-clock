@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fcc-25plus5-clock/static/css/main.e768363f.chunk.css",
+    "main.js": "/fcc-25plus5-clock/static/js/main.cf55e0c1.chunk.js",
+    "main.js.map": "/fcc-25plus5-clock/static/js/main.cf55e0c1.chunk.js.map",
+    "runtime-main.js": "/fcc-25plus5-clock/static/js/runtime-main.ff4d962e.js",
+    "runtime-main.js.map": "/fcc-25plus5-clock/static/js/runtime-main.ff4d962e.js.map",
+    "static/js/2.d22d9c9a.chunk.js": "/fcc-25plus5-clock/static/js/2.d22d9c9a.chunk.js",
+    "static/js/2.d22d9c9a.chunk.js.map": "/fcc-25plus5-clock/static/js/2.d22d9c9a.chunk.js.map",
+    "index.html": "/fcc-25plus5-clock/index.html",
+    "static/css/main.e768363f.chunk.css.map": "/fcc-25plus5-clock/static/css/main.e768363f.chunk.css.map",
+    "static/js/2.d22d9c9a.chunk.js.LICENSE.txt": "/fcc-25plus5-clock/static/js/2.d22d9c9a.chunk.js.LICENSE.txt",
+    "static/media/build_testable-projects-fcc_audio_BeepSound.372995a9.wav": "/fcc-25plus5-clock/static/media/build_testable-projects-fcc_audio_BeepSound.372995a9.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4d962e.js",
+    "static/js/2.d22d9c9a.chunk.js",
+    "static/css/main.e768363f.chunk.css",
+    "static/js/main.cf55e0c1.chunk.js"
+  ]
+}
